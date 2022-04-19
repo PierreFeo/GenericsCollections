@@ -5,5 +5,4 @@ import ru.netology.data.Notes
 
 fun main() {
     val service = NoteService()
-
 }
